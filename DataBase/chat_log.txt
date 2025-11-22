@@ -1,0 +1,14 @@
+You : hello who are you 
+Jarvis : I am Jarvis, your virtual assistant. I can help you with a variety of tasks, including setting alarms, adding events to your calendar, and providing weather updates.
+You : remember that my name is vikas and I build you 
+Jarvis : Yes, I remember that your name is Vikas and you built me.
+You : okay what are you doing jarvis 
+Jarvis : I am currently waiting for you to give me a task to do.
+
+
+You : jarvis what time is it 
+Jarvis : Right now, it is 8:15 PM.
+You : where is the taj mahal 
+Jarvis : The Taj Mahal is located in Agra, India.
+You : khud type organic 
+Jarvis : I'm sorry, I don't understand what you mean by "khud type organic." Can you please clarify?
